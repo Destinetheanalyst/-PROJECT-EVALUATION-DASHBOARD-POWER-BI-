@@ -34,8 +34,8 @@ This solution is built for **data-driven project governance and workforce planni
 ---
 
 ## 🖼 Dashboard Preview  
-`![Project Evaluation Dashboard](assets/project_eval_dashboard.png)`  
-*(Insert screenshot image in your repo)*
+<img width="877" height="491" alt="HR Analysis" src="https://github.com/user-attachments/assets/daa54c13-4187-42e1-86ed-1b106d1c1271" />
+
 
 ---
 
@@ -104,7 +104,7 @@ Includes:
 # 🔍 Key Insights  
 
 ## **Executive-Level Insights**
-### **1. HR Has the Highest Salary Cost ($167K)**  
+### **1. HR has the Highest Salary Cost ($167K)**  
 Despite not being a revenue-generating unit, HR accounts for the **largest salary expense**, indicating:  
 - Wide HR role coverage  
 - Possibly senior staff concentration  
@@ -116,7 +116,7 @@ Engineering is heavily funded relative to others, suggesting:
 - Product development dependence  
 - Long-term R&D investment  
 
-### **3. Marketing Receives the Second Highest Capital and Shows High Budget Needs**  
+### **3. Marketing Receives the Second-Highest Capital and Shows High Budget Needs**  
 - High spending aligns with **brand awareness initiatives**  
 - Cost levels justify performance monitoring to ensure ROI  
 
@@ -155,6 +155,7 @@ Engineering is heavily funded relative to others, suggesting:
 - Opportunity for HR process automation to reduce cost burden  
 
 ---
+<img width="973" height="503" alt="HR Analysis 2" src="https://github.com/user-attachments/assets/9f3fdd09-28d9-40f7-b4e1-1366aff3c90b" />
 
 ## **Project Insights**
 
